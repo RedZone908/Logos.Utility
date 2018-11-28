@@ -2,7 +2,7 @@
 
 Neither this repository fork nor the original repository are under active development; the code is made available for reference only. 
 
-Similar code by the authors of the original repository is available in [FaithlifeUtility](https://github.com/Faithlife/FaithlifeUtility). The new repository fulfills the goal of this fork (converison to .NET Standard), so this fork is no longer necessary.
+Similar code by the authors of the original repository is available in [FaithlifeUtility](https://github.com/Faithlife/FaithlifeUtility). The original authors' new repository fulfills the goal of this fork (conversion to .NET Standard), so this fork is no longer necessary.
 
 [![Project Status: Abandoned – Initial development has started, but there has not yet been a stable, usable release; the project has been abandoned and the author(s) do not intend on continuing development.](https://www.repostatus.org/badges/latest/abandoned.svg)](https://www.repostatus.org/#abandoned)
 
