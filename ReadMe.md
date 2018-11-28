@@ -1,3 +1,11 @@
+## This repository is archived
+
+Neither this repository fork nor the original repository are under active development; the code is made available for reference only. 
+
+Similar code by the authors of the original repository is available in [FaithlifeUtility](https://github.com/Faithlife/FaithlifeUtility). The new repository fulfills the goal of this fork (converison to .NET Standard), so this fork is no longer necessary.
+
+[![Project Status: Abandoned – Initial development has started, but there has not yet been a stable, usable release; the project has been abandoned and the author(s) do not intend on continuing development.](https://www.repostatus.org/badges/latest/abandoned.svg)](https://www.repostatus.org/#abandoned)
+
 ## Logos.Utility
 
 ### About
@@ -7,10 +15,6 @@ Additionally, the unit tests have been converted to .NET Core and upgraded to us
 
 The original version of this code was published by Logos Bible Software, based on articles published
 at the [Logos Code Blog](http://code.logos.com/blog/).
-
-### Build Status (original version)
-
-[![Build status](https://ci.appveyor.com/api/projects/status/k5akr20slk8ya729)](https://ci.appveyor.com/project/BradleyGrainger/logos-utility)
 
 ### License
 
